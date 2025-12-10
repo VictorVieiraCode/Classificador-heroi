@@ -1,6 +1,6 @@
 
 let nome = "Victor";
-let xp = 350;
+let xp = 7002;
 let nivel = "";
 
 if (xp < 1000) {nivel = "Ferro";}
